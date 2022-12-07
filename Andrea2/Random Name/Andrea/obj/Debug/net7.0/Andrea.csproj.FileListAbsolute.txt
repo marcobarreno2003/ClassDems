@@ -1,0 +1,15 @@
+C:\Users\natha\Andrea\bin\Debug\net7.0\Andrea.exe
+C:\Users\natha\Andrea\bin\Debug\net7.0\Andrea.deps.json
+C:\Users\natha\Andrea\bin\Debug\net7.0\Andrea.runtimeconfig.json
+C:\Users\natha\Andrea\bin\Debug\net7.0\Andrea.dll
+C:\Users\natha\Andrea\bin\Debug\net7.0\Andrea.pdb
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.csproj.AssemblyReference.cache
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.AssemblyInfoInputs.cache
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.AssemblyInfo.cs
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.csproj.CoreCompileInputs.cache
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.dll
+C:\Users\natha\Andrea\obj\Debug\net7.0\refint\Andrea.dll
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.pdb
+C:\Users\natha\Andrea\obj\Debug\net7.0\Andrea.genruntimeconfig.cache
+C:\Users\natha\Andrea\obj\Debug\net7.0\ref\Andrea.dll
